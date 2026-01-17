@@ -1,0 +1,45 @@
+{
+  "name": "pawscode",
+  "version": "0.1.0",
+  "description": "Paws CLI - an AI-powered coding assistant",
+  "bin": {
+    "paws": "paws.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthanabc/paws.git"
+  },
+  "keywords": [
+    "paws",
+    "ai",
+    "assistant",
+    "cli"
+  ],
+  "author": "Antinomy Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manthanabc/paws/issues"
+  },
+  "homepage": "https://pawscode.dev/",
+  "files": [
+    "bin/**/*",
+    "install.js",
+    "paws.js"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

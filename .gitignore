@@ -1,0 +1,6 @@
+.env
+.npmrc
+/node_modules
+/coverage
+*.log
+/debug
