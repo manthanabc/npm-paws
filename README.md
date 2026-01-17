@@ -3,9 +3,8 @@
 
 <p align="center"><code>npx pawscode@latest</code></p>
 
-[![CI Status](https://img.shields.io/github/actions/workflow/status/pawscode/paws/ci.yml?style=for-the-badge)](https://github.com/pawscode/paws/actions)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/manthanabc/paws/ci.yml?style=for-the-badge)](https://github.com/pawscode/paws/actions)
 [![GitHub Release](https://img.shields.io/github/v/release/manthanabc/paws?style=for-the-badge)](https://github.com/manthanabc/paws/releases)
-[![Discord](https://img.shields.io/discord/1044859667798568962?style=for-the-badge&cacheSeconds=120&logo=discord)](https://discord.gg/kRZBPpkgwq)
 
 ---
 
