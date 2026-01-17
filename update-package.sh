@@ -81,7 +81,7 @@ download_binary "https://github.com/manthanabc/paws/releases/download/$VERSION/p
 
 # Make binaries executable
 chmod +x bin/darwin/arm64/paws-aarch64-apple-darwin
-chmod +x bin/darwin/arm64/paws-aarch64-linux-android
+chmod +x bin/android/arm64/paws-aarch64-linux-android
 chmod +x bin/darwin/x64/paws-x86_64-apple-darwin
 chmod +x bin/linux/arm64/paws-aarch64-unknown-linux-gnu
 chmod +x bin/linux/x64/paws-x86_64-unknown-linux-gnu
