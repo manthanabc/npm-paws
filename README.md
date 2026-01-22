@@ -74,7 +74,7 @@ FORCE_MUSL=1 npx pawscode@latest
 
 ## Community
 
-- [Discord](https://discord.gg) - Soon 
+- [Discord](https://discord.gg/9EGrd4s9fe) - Join the community 
 - [GitHub Issues](https://github.com/manthanabc/paws/issues) - Report bugs and request features
 
 ## License

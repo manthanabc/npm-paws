@@ -52,13 +52,7 @@ echo "Downloading binaries for version $VERSION..."
 download_binary() {
   local url="$1"
   local output="$2"
-  
-  # Check if file already exists
-  if [ -f "$output" ]; then
-    echo "✓ $output already exists, skipping download"
-    return 0
-  fi
-  
+
   echo "Downloading ${output}..."
   curl -L -f -S --retry 3 "$url" -o "$output" || {
     echo "ERROR: Failed to download $url" >&2
