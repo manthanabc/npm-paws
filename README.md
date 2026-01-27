@@ -1,5 +1,4 @@
-<h1 align="center">🐾 Paws: AI-Enhanced Terminal Development Environment</h1>
-<p align="center">A coding agent</p>
+<h1 align="center">Paws: Terminal Coding Agents</h1>
 
 <p align="center"><code>npx pawscode@latest</code></p>
 
