@@ -1,6 +1,6 @@
 {
   "name": "pawscode",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Paws CLI - an AI-powered coding assistant",
   "bin": {
     "paws": "paws.js"
